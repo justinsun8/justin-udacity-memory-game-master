@@ -21,9 +21,3 @@ Make moves on the table of cards by choosing pairs of cards that you think that 
 -When the player starts a game, a displayed timer should also start. Once the player wins the game, the timer stops.
 
 -Game displays the current number of moves a user has made.
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
